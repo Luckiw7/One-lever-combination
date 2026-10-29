@@ -1,0 +1,10 @@
+{
+  "name": "OneLeverModule-Editor",
+  "references": [
+    "OneLeverModule"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": []
+}
